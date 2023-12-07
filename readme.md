@@ -1,9 +1,11 @@
-To run the project, some specific requiremnts are to be met.
+## Notebook
+- Access the data cleanup notebook: [data_cleanup.ipynb](https://github.com/jeankhoury0/ift3700-Travail-final/blob/main/data_cleanup.ipynb)
 
-You need to install the requirements: 
+## Resulting table
+- The resulting table is saved in [the_final_table.csv](https://github.com/jeankhoury0/ift3700-Travail-final/blob/main/the_final_table.csv)
 
+## Installation
+Install the required packages with pip:
 ``` zsh
 pip install -r requirements.txt
 ```
-
-This extension should run on well on VScode
