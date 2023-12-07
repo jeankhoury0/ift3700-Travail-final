@@ -3,9 +3,3 @@
 
 ## Resulting table
 - The resulting table is saved in [the_final_table.csv](https://github.com/jeankhoury0/ift3700-Travail-final/blob/main/the_final_table.csv)
-
-## Installation
-Install the required packages with pip:
-``` zsh
-pip install -r requirements.txt
-```
